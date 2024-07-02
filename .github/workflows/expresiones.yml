@@ -1,4 +1,4 @@
-name: Expression
+name: Expressiones
 run-name: Corriendo expresiones
 on:
   workflow_dispatch:
